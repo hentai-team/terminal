@@ -1,7 +1,7 @@
 # Hentai Terminal
 ## Welcome to Hentai Terminal!
 
-[FLEXengine](https://img.shields.io/badge/FLEXengine-8.1.314-brightgreen)
+![FLEXengine](https://img.shields.io/badge/FLEXengine-8.1.314-brightgreen)
 
 ### Hello, world!
 
