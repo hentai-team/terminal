@@ -4,7 +4,7 @@
 ![FLEXengine Version](https://img.shields.io/badge/FLEXengine-8.1.314-brightgreen) ![CTK Version](https://img.shields.io/badge/CTK-1.3.207-brightgreen) ![HBash Version](https://img.shields.io/badge/Hentai%20Bash-2.0.010-blueviolet) ![HTerminal Version](https://img.shields.io/badge/Hentai%20Terminal-2.0.010-blueviolet) ![DevelNext version](https://img.shields.io/badge/DevelNext%20Version-16.7.0-blue)
 
 #### Development status
-![Development status](https://img.shields.io/badge/Already%20done-70%20%25-yellowgreen)
+![Development status](https://img.shields.io/badge/Already%20done-73%20%25-yellowgreen)
 
 ### Hello, world!
 
