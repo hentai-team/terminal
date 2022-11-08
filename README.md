@@ -1,7 +1,7 @@
 # Hentai Terminal
 ## Welcome to Hentai Terminal!
 
-![FLEXengine Version](https://img.shields.io/badge/FLEXengine-11.0.010-brightgreen) ![CTK Version](https://img.shields.io/badge/CTK-2.0.010-brightgreen) ![HBash Version](https://img.shields.io/badge/Hentai%20Bash-3.0.010-critical) ![HTerminal Version](https://img.shields.io/badge/Hentai%20Terminal-3.0.010-critical)
+![FLEXengine Version](https://img.shields.io/badge/FLEXengine-11.0.010-inactive) ![CTK Version](https://img.shields.io/badge/CTK-2.0.010-inactive) ![HBash Version](https://img.shields.io/badge/Hentai%20Bash-3.0.010-critical) ![HTerminal Version](https://img.shields.io/badge/Hentai%20Terminal-3.0.010-critical)
 
 #### Development status
 ![Development status](https://img.shields.io/badge/Already%20done-20%20%25-yellowgreen)
